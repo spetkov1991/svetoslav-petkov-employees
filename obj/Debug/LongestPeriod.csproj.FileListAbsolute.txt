@@ -1,0 +1,7 @@
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\bin\Debug\LongestPeriod.exe.config
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\bin\Debug\LongestPeriod.exe
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\bin\Debug\LongestPeriod.pdb
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\obj\Debug\LongestPeriod.csprojAssemblyReference.cache
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\obj\Debug\LongestPeriod.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\obj\Debug\LongestPeriod.exe
+C:\Users\Svetoslav\source\repos\LongestPeriod\LongestPeriod\obj\Debug\LongestPeriod.pdb
